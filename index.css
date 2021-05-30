@@ -123,7 +123,7 @@ h2#text {
 .sec {
   position: relative;
   min-height: 500px;
-  padding: 10px;
+  padding: 25px;
   background: #1c0522;
 }
 
@@ -146,4 +146,8 @@ h2#text {
 
 .paddingTop {
   padding-top: 50px;
+}
+
+.paddingTopSuper {
+  padding-top: 200px;
 }
