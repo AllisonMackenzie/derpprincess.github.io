@@ -8,6 +8,10 @@
   scroll-behavior: smooth;
 }
 
+a {
+  color: rgb(32, 173, 131);
+}
+
 .center {
   text-align: center;
 }
