@@ -6,7 +6,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   scroll-behavior: smooth;
-  color: white;
+  color: #fff;
 }
 
 .center {
@@ -91,4 +91,37 @@ section img {
   height: 100%;
   object-fit: cover;
   pointer-events: none;
+}
+
+section .moon {
+  padding-left: 1000px;
+  padding-top: 250px;
+}
+
+section img#moon {
+  mix-blend-mode: screen;
+}
+
+.sec {
+  position: relative;
+  min-height: 500px;
+  padding: 25px;
+  background: #1c0522;
+}
+
+.sec h2 {
+  font-size: 3.5em;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.sec h3 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.sec p {
+  font-size: 1.2em;
+  color: #fff;
 }
