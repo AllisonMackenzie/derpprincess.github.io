@@ -79,7 +79,7 @@
       let header = document.querySelector('header');
 
       window.addEventListener('scroll', function() {
-        var value = window.scrollY;
+        let value = window.scrollY;
         moon.style.top = -value * -1.05 + 'px';
         stars.style.left = value * 0.25 + 'px';
         mountains_behind.style.top =-value * -0.5 + 'px';
