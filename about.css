@@ -72,7 +72,7 @@ section {
   overflow: hidden;
   display: flex;
   justify-content: center;
-  text-align: center;
+  align-items: center;
 }
 
 section:before {
