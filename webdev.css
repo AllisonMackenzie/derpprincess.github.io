@@ -137,3 +137,11 @@ section img#moon {
   font-size: 1.5em;
   z-index: 9;
 }
+
+.paddingTop {
+  padding-top: 50px;
+}
+
+.paddingTopSuper {
+  padding-top: 200px;
+}

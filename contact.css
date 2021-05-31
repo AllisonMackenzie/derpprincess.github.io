@@ -268,11 +268,3 @@ section .container .contactForm .formBox .inputBox input[type='submit'] {
 section .container .contactForm .formBox .inputBox input[type='submit']:hover {
   background: #0b7eac;
 }
-
-section.moon {
-  padding-left: 500px;
-}
-
-section img#moon {
-  mix-blend-mode: screen;
-}
